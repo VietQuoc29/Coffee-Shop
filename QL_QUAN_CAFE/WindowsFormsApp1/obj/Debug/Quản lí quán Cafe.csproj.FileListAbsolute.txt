@@ -1,0 +1,39 @@
+D:\Tài liệu học tập\LTTQ\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Tài liệu học tập\LTTQ\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Tài liệu học tập\LTTQ\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Tài liệu học tập\LTTQ\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\Quản lí quán Cafe.csproj.AssemblyReference.cache
+D:\Tài liệu học tập\LTTQ\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\Quản lí quán Cafe.csproj.SuggestedBindingRedirects.cache
+D:\Tài liệu học tập\LTTQ\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fLogin.resources
+D:\Tài liệu học tập\LTTQ\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fTableManager.resources
+D:\Tài liệu học tập\LTTQ\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Tài liệu học tập\LTTQ\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\Quản lí quán Cafe.csproj.GenerateResource.cache
+D:\Tài liệu học tập\LTTQ\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\Quản lí quán Cafe.csproj.CoreCompileInputs.cache
+D:\Tài liệu học tập\LTTQ\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Tài liệu học tập\LTTQ\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Tài liệu học tập\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Tài liệu học tập\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Tài liệu học tập\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Tài liệu học tập\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\Quản lí quán Cafe.csproj.AssemblyReference.cache
+D:\Tài liệu học tập\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\Quản lí quán Cafe.csproj.SuggestedBindingRedirects.cache
+D:\Tài liệu học tập\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fLogin.resources
+D:\Tài liệu học tập\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fTableManager.resources
+D:\Tài liệu học tập\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Tài liệu học tập\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\Quản lí quán Cafe.csproj.GenerateResource.cache
+D:\Tài liệu học tập\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\Quản lí quán Cafe.csproj.CoreCompileInputs.cache
+D:\Tài liệu học tập\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Tài liệu học tập\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Tài liệu học tập\LTTQ\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fAccountProfile.resources
+D:\Tài liệu học tập\LTTQ\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fAdmin.resources
+C:\Users\Administrator\Desktop\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Administrator\Desktop\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Administrator\Desktop\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Administrator\Desktop\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\Quản lí quán Cafe.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fAccountProfile.resources
+C:\Users\Administrator\Desktop\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fAdmin.resources
+C:\Users\Administrator\Desktop\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fLogin.resources
+C:\Users\Administrator\Desktop\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fTableManager.resources
+C:\Users\Administrator\Desktop\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\Quản lí quán Cafe.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\Quản lí quán Cafe.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Administrator\Desktop\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

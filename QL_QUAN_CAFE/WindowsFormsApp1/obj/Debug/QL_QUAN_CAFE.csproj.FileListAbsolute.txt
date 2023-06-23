@@ -1,0 +1,205 @@
+C:\Users\Administrator\Desktop\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Administrator\Desktop\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Administrator\Desktop\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Administrator\Desktop\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\QL_QUAN_CAFE.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fAccountProfile.resources
+C:\Users\Administrator\Desktop\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fAdmin.resources
+C:\Users\Administrator\Desktop\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fLogin.resources
+C:\Users\Administrator\Desktop\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fTableManager.resources
+C:\Users\Administrator\Desktop\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\QL_QUAN_CAFE.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\QL_QUAN_CAFE.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Administrator\Desktop\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Administrator\Desktop\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormAccount.resources
+C:\Users\Administrator\Desktop\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormBill.resources
+C:\Users\Administrator\Desktop\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormCategory.resources
+C:\Users\Administrator\Desktop\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormFood.resources
+C:\Users\Administrator\Desktop\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormTable.resources
+C:\Users\Administrator\Desktop\QLCAFE-TEST\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Administrator\Desktop\QLCAFE-TEST\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Administrator\Desktop\QLCAFE-TEST\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Administrator\Desktop\QLCAFE-TEST\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\QL_QUAN_CAFE.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\QLCAFE-TEST\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fAccountProfile.resources
+C:\Users\Administrator\Desktop\QLCAFE-TEST\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fAdmin.resources
+C:\Users\Administrator\Desktop\QLCAFE-TEST\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fLogin.resources
+C:\Users\Administrator\Desktop\QLCAFE-TEST\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormAccount.resources
+C:\Users\Administrator\Desktop\QLCAFE-TEST\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormBill.resources
+C:\Users\Administrator\Desktop\QLCAFE-TEST\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormCategory.resources
+C:\Users\Administrator\Desktop\QLCAFE-TEST\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormFood.resources
+C:\Users\Administrator\Desktop\QLCAFE-TEST\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormTable.resources
+C:\Users\Administrator\Desktop\QLCAFE-TEST\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fTableManager.resources
+C:\Users\Administrator\Desktop\QLCAFE-TEST\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\QLCAFE-TEST\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\QL_QUAN_CAFE.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\QLCAFE-TEST\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\QL_QUAN_CAFE.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\QLCAFE-TEST\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Administrator\Desktop\QLCAFE-TEST\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+<<<<<<< Updated upstream
+C:\Users\Admin\Source\Repos\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\Source\Repos\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Source\Repos\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Source\Repos\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\QL_QUAN_CAFE.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fAccountProfile.resources
+C:\Users\Admin\Source\Repos\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fAdmin.resources
+C:\Users\Admin\Source\Repos\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fLogin.resources
+C:\Users\Admin\Source\Repos\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormAccount.resources
+C:\Users\Admin\Source\Repos\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormBill.resources
+C:\Users\Admin\Source\Repos\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormCategory.resources
+C:\Users\Admin\Source\Repos\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormFood.resources
+C:\Users\Admin\Source\Repos\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormTable.resources
+C:\Users\Admin\Source\Repos\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fTableManager.resources
+C:\Users\Admin\Source\Repos\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\Source\Repos\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\QL_QUAN_CAFE.csproj.GenerateResource.cache
+C:\Users\Admin\Source\Repos\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\QL_QUAN_CAFE.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Source\Repos\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+=======
+>>>>>>> Stashed changes
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\QL_QUAN_CAFE.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fAccountProfile.resources
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fAdmin.resources
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fLogin.resources
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormAccount.resources
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormBill.resources
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormCategory.resources
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormFood.resources
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormTable.resources
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fTableManager.resources
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\QL_QUAN_CAFE.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\QL_QUAN_CAFE.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\QL_QUAN_CAFE.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fAccountProfile.resources
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fAdmin.resources
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fLogin.resources
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormAccount.resources
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormBill.resources
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormCategory.resources
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormFood.resources
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormTable.resources
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fTableManager.resources
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\QL_QUAN_CAFE.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\QL_QUAN_CAFE.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\QL_QUAN_CAFE.csproj.AssemblyReference.cache
+D:\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fAccountProfile.resources
+D:\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fAdmin.resources
+D:\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fLogin.resources
+D:\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormAccount.resources
+D:\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormBill.resources
+D:\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormCategory.resources
+D:\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormFood.resources
+D:\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormTable.resources
+D:\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fTableManager.resources
+D:\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\QL_QUAN_CAFE.csproj.GenerateResource.cache
+D:\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\QL_QUAN_CAFE.csproj.CoreCompileInputs.cache
+D:\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\DocuSign.eSign.dll
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\RestSharp.dll
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\DocuSign.eSign.xml
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.pdb
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\RestSharp.xml
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\QL_QUAN_CAFE.csproj.CopyComplete
+C:\Users\Administrator\Desktop\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormStatistics.resources
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\DocuSign.eSign.dll
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\RestSharp.dll
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\DocuSign.eSign.xml
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.pdb
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\RestSharp.xml
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormStatistics.resources
+C:\Users\Admin\OneDrive\Documents\GitHub\QuanLiQuanCafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\QL_QUAN_CAFE.csproj.CopyComplete
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\QL_QUAN_CAFE.csproj.AssemblyReference.cache
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fAccountProfile.resources
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fAdmin.resources
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fLogin.resources
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormAccount.resources
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormBill.resources
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormCategory.resources
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormFood.resources
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormStatistics.resources
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormsInAdmin.FormTable.resources
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fTableManager.resources
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\QL_QUAN_CAFE.csproj.GenerateResource.cache
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\DocuSign.eSign.dll
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\RestSharp.dll
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\DocuSign.eSign.xml
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.pdb
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\RestSharp.xml
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\QL_QUAN_CAFE.csproj.CoreCompileInputs.cache
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\obj\Debug\QL_QUAN_CAFE.csproj.CopyComplete
+D:\Study\3rd\Sem-2\SE113-Kiểm chứng\IT008.M11.PMCL_N13_20520583_20520260\Đồ án - Quản lí quán cafe\QL_QUAN_CAFE\WindowsFormsApp1\bin\Debug\DBConnect.dll

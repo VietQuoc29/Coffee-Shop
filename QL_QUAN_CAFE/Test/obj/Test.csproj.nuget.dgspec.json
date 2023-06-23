@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Study\\3rd\\Sem-2\\SE113-Kiểm chứng\\IT008.M11.PMCL_N13_20520583_20520260\\Đồ án - Quản lí quán cafe\\QL_QUAN_CAFE\\Test\\Test.csproj": {}
+  },
+  "projects": {
+    "D:\\Study\\3rd\\Sem-2\\SE113-Kiểm chứng\\IT008.M11.PMCL_N13_20520583_20520260\\Đồ án - Quản lí quán cafe\\QL_QUAN_CAFE\\Test\\Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\3rd\\Sem-2\\SE113-Kiểm chứng\\IT008.M11.PMCL_N13_20520583_20520260\\Đồ án - Quản lí quán cafe\\QL_QUAN_CAFE\\Test\\Test.csproj",
+        "projectName": "Test",
+        "projectPath": "D:\\Study\\3rd\\Sem-2\\SE113-Kiểm chứng\\IT008.M11.PMCL_N13_20520583_20520260\\Đồ án - Quản lí quán cafe\\QL_QUAN_CAFE\\Test\\Test.csproj",
+        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\3rd\\Sem-2\\SE113-Kiểm chứng\\IT008.M11.PMCL_N13_20520583_20520260\\Đồ án - Quản lí quán cafe\\QL_QUAN_CAFE\\Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "D:\\Study\\3rd\\Sem-2\\SE113-Kiểm chứng\\IT008.M11.PMCL_N13_20520583_20520260\\Đồ án - Quản lí quán cafe\\QL_QUAN_CAFE\\WindowsFormsApp1\\QL_QUAN_CAFE.csproj": {
+                "projectPath": "D:\\Study\\3rd\\Sem-2\\SE113-Kiểm chứng\\IT008.M11.PMCL_N13_20520583_20520260\\Đồ án - Quản lí quán cafe\\QL_QUAN_CAFE\\WindowsFormsApp1\\QL_QUAN_CAFE.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "DBConnect": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.0-preview2.23159.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\3rd\\Sem-2\\SE113-Kiểm chứng\\IT008.M11.PMCL_N13_20520583_20520260\\Đồ án - Quản lí quán cafe\\QL_QUAN_CAFE\\WindowsFormsApp1\\QL_QUAN_CAFE.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Study\\3rd\\Sem-2\\SE113-Kiểm chứng\\IT008.M11.PMCL_N13_20520583_20520260\\Đồ án - Quản lí quán cafe\\QL_QUAN_CAFE\\WindowsFormsApp1\\QL_QUAN_CAFE.csproj",
+        "projectName": "QL_QUAN_CAFE",
+        "projectPath": "D:\\Study\\3rd\\Sem-2\\SE113-Kiểm chứng\\IT008.M11.PMCL_N13_20520583_20520260\\Đồ án - Quản lí quán cafe\\QL_QUAN_CAFE\\WindowsFormsApp1\\QL_QUAN_CAFE.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
